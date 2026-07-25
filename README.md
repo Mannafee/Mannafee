@@ -2,7 +2,7 @@
   <img src="./banner.png" width="100%" alt="Istiaque Shaikat — Senior ML Engineer · GenAI · Agentic AI · MLOps"/>
 </p>
 
-**Senior ML Engineer at Zühlke** (currently Expert Machine Learning Engineer), based in Berlin. For 5+ years I've turned generative and agentic AI ideas into production systems for enterprise clients across retail, industrial, and telecom — on AWS and Azure. Three promotions in four years, and a Best Paper Award at ICPRAM 2023.
+**Senior ML Engineer at Zühlke** based in Berlin. For 5+ years I've turned generative and agentic AI ideas into production systems for enterprise clients across retail, industrial, and telecom — on AWS and Azure. Three promotions in four years, and a Best Paper Award at ICPRAM 2023.
 
 ### What I do
 
